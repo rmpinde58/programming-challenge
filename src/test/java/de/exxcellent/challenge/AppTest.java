@@ -18,14 +18,5 @@ class AppTest {
         successLabel = "successful";
     }
 
-    @Test
-    void aPointlessTest() {
-        assertEquals("successful", successLabel, "My expectations were not met");
-    }
-
-    @Test
-    void runFootball() {
-        App.main("--football", "football.csv");
-    }
 
 }

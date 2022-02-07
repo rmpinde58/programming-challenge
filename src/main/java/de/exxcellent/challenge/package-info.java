@@ -5,4 +5,4 @@
  *
  * @author Benjamin Schmid <benjamin.schmid@exxcellent.de>
  */
-package de.exxcellent.challenge;
+package com.company;
